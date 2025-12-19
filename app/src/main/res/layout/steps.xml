@@ -22,9 +22,9 @@
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/rectangle_5"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="602dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="602dp" />
 
     <ImageView
         android:id="@+id/imageView19"
@@ -52,9 +52,9 @@
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/vector"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
         tools:layout_editor_absoluteX="42dp"
-        tools:layout_editor_absoluteY="620dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="620dp" />
 
     <ImageView
         android:id="@+id/imageView22"
@@ -62,9 +62,9 @@
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/list_alt"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
         tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="505dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="505dp" />
 
     <ImageView
         android:id="@+id/imageView23"
@@ -73,9 +73,9 @@
         android:backgroundTint="#4CAF50"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/directions_walk"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
         tools:layout_editor_absoluteX="42dp"
-        tools:layout_editor_absoluteY="395dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="395dp" />
 
     <ImageView
         android:id="@+id/imageView24"
@@ -113,9 +113,9 @@
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/keyboard_arrow_down"
+        tools:ignore="MissingConstraints,ImageContrastCheck"
         tools:layout_editor_absoluteX="348dp"
-        tools:layout_editor_absoluteY="519dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="519dp" />
 
     <TextView
         android:id="@+id/routes"
